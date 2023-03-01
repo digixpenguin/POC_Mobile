@@ -1,0 +1,4 @@
+[submodule "src/core_module"]
+	path = src/core_module
+	url = https://github.com/digixpenguin/POC_Core_Module.git
+	branch = master
